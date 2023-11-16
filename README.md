@@ -1,4 +1,4 @@
-# Team-Project-Hackaton-Infineon-
+# Team Project Made on Hackaton 2023 Infineon
 
 ![image](https://github.com/YrSk-tech/Team-Project-Hackaton-Infineon-/assets/32609324/7030a81a-a401-4ee1-8135-1efeaa8af6e0)
 
